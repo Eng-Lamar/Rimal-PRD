@@ -1,1 +1,2 @@
-# Rimal Tech Partnership Landing Page\n\nArabic one-page partnership landing page. Upload `index.html` to the repository root.\n\nBrand colors: Orange #FF6B2C, Purple #8B5CF6, Ivory #F5F1EA, Black #09090B.\n
+# Rimal Tech Partnership Landing Page\n\nUpdated responsive Arabic partnership landing page for RIMAL TECH.\n\n- Main file: `index.html`\n- Logo asset: `logo.png`\n- Brand colors: Orange `#FF6B2C`, Purple `#8B5CF6`, Ivory `#F5F1EA`, Black `#09090B`\n- Includes responsive layout, expandable partnership cards, scroll reveal, sticky navigation, and back-to-top button.\n\nKeep `logo.png` beside `index.html` when uploading. Replace the partner placeholder blocks with actual partner logos when available.\n
+Partner logos added: `misyaal.jpg` and `bean-dose.jpg`.
