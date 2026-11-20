@@ -1,0 +1,1 @@
+# Rimal Tech Partnership Landing Page\n\nArabic one-page partnership landing page. Upload `index.html` to the repository root.\n\nBrand colors: Orange #FF6B2C, Purple #8B5CF6, Ivory #F5F1EA, Black #09090B.\n
